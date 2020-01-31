@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །དབུ་མ་ལ་འཇུག་པའི་ཀར་ཊཱིཀ།
+  authors:
+  - མཛད་པ་པོ། ཀརྨ་མི་བསྐྱོད་རྡོ་རྗེ།
+  sku: VVI-MD-004-2
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: A Commentary on the Middle Way, Volume 2
+    bo: དབུ་མ་ལ་འཇུག་པའི་ཀར་ཊཱིཀ།
+  collection:
+    en: VVI Mikyo Dorje Series–  Book 4-2
+    bo: མི་བསྐྱོད་རྡོ་རྗེ་གསུང་།–  དེབ། ༤-༢
+  author:
+    en: Eighth Karmapa Mikyo Dorje
+    bo: ཀརྨ་པ་སྐུ་ཕྲེང་བརྒྱད་པ་མི་བསྐྱོད་རྡོ་རྗེ།
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: བཛྲ་བིདྱཱ་གཙུག་ལག་སློབ་གཉེར་ཁང་།
+  sku: VVI-MD-004-2
+  category:
+    en: Madhyamika
+    bo: དབུ་མ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-MD-004-2.epub
+  description:
+    en: ''
+    bo: ''
