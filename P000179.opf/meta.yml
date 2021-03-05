@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000179
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དབུ་མ་ལ་འཇུག་པའི་ཀར་ཊཱིཀ།
   authors:
   - མཛད་པ་པོ། ཀརྨ་མི་བསྐྱོད་རྡོ་རྗེ།
-  sku: VVI-MD-004-2
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: VVI-MD-004-2
 web_metadata:
   title:
     en: A Commentary on the Middle Way, Volume 2
